@@ -1,0 +1,22 @@
+footer {
+    margin: 0 auto;
+    p {
+        color: $font-color-primary;
+        font-size: 1.3rem;
+        font-family: 'Roboto';
+        margin: 0;
+        a {
+            color: #ffffff;
+        }
+    }
+}
+
+footer {
+    bottom: 0;
+    position: relative;
+    width: 100%;
+    text-align: center;
+    background-color: #cc3d46;;
+    padding: 15px 0px;
+    
+}
