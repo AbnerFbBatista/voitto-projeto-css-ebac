@@ -1,6 +1,7 @@
 # Voitto
 Projeto para base de conhecimento de CSS Avançado.
 O design do projeto foi encontrado no Figma, e fui desenvolvendo de acordo com o design estabelecido no projeto.
+Link do projeto abaixo
 (https://www.figma.com/file/uYMNKtqoQBeeaLYNUnNont/%5BFUNDAMENTOS-DE-HTML-E-CSS%5D-Projeto-Landing-Page---Voitto-(Community)?type=design&node-id=0-1&mode=design&t=3OUK0u1KJ0VISDMd-0)
 
 ## Atividade
